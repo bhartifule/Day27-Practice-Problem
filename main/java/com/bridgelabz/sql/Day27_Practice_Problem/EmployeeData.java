@@ -11,13 +11,13 @@ public class EmployeeData {
 	        this.employeeName = employeeName;
 	        this.employeeSalary = employeeSalary;
 	    }
+	    
 
 	    @Override
 	    public String toString() {
 	        return "employeeId=" + employeeId + ", employeeName=" + employeeName + ", employeeSalary=" + employeeSalary
 	                + "";
 	    }
-	    
 	    
 }
 
