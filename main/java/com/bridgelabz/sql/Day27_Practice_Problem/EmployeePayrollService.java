@@ -21,8 +21,7 @@ public class EmployeePayrollService {
 	    public void writeEmployeeDataInConsole() // write the employee data in console.
 	    {
 	        System.out.println("Writing Employee_PayRoll Data \n" + employeePayrollList);
-	        
 	    }
-	
+	    
     
 }
